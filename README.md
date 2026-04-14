@@ -1,4 +1,4 @@
-🚀 Ultimate Programming Resources Hub by Lfr Ahmad
+🚀 Ultimate Programming Resources Hub by Muazzam Rana
 
 Welcome to the All-in-One Coding Resource Hub 👋
 Agar tum coding seekhna chahte ho, freelancing start karna chahte ho, ya apni skills improve karna chahte ho — yeh repo tumhare liye hai.
